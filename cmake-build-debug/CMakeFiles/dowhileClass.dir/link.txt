@@ -1,0 +1,3 @@
+"F:\Clion\Clion2020\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\dowhileClass.dir/objects.a
+F:\Clion\mingw64\bin\ar.exe cr CMakeFiles\dowhileClass.dir/objects.a @CMakeFiles\dowhileClass.dir\objects1.rsp
+F:\Clion\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\dowhileClass.dir/objects.a -Wl,--no-whole-archive  -o dowhileClass.exe -Wl,--out-implib,libdowhileClass.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dowhileClass.dir\linklibs.rsp
